@@ -6,6 +6,8 @@ Learners will use the Internet to solve the mystery of The Kraken, a legendary s
 
 It lasts about 45 minutes to a hour
 
+You can [view this activity online](https://mozilla.github.io/mozilla-club-activity-kraken-the-code).
+
 ---
 
 # Mozilla Clubs
