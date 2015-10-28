@@ -1,6 +1,6 @@
 ---
 title: Kraken the Code
-github: mozilla/mozilla-club-activity-kraken-the-code
+github: mozilla/mozilla-club-activity-web
 github_label: View on Github
 discourse_label: Discussion
 image: square-kraken.png

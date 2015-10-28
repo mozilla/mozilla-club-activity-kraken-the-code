@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Kraken The Code Activity](#kraken-the-code-activity)
+- [Mozilla Clubs](#mozilla-clubs)
+- [Activity Template for Mozilla Clubs Activities](#activity-template-for-mozilla-clubs-activities)
+- [How to use this template](#how-to-use-this-template)
+- [How does this work (internally)](#how-does-this-work-internally)
+- [Challenges](#challenges)
+- [Contributing](#contributing)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ![logo](activity-data/images/square-kraken.png)
 
 # Kraken The Code Activity
@@ -7,6 +21,30 @@ Learners will use the Internet to solve the mystery of The Kraken, a legendary s
 It lasts about 45 minutes to a hour
 
 You can [view this activity online](http://mozilla.github.io/mozilla-club-activity-kraken-the-code).
+
+---
+
+## How to localize/translate an activity
+If you want to help localize or translate an activity there are two ways to go depending on your knowledge of git. Both ways are equally valid and lead to the same result.
+
+
+
+### With help from the repository owner
+The easiest way to help with the translation of an activity is to use [the issues section of the repository](/issues) to create a new issue/task and exchange information with the people involved with the repository.
+
+1. Create a new issue in the desired repository with a title such as: **Localization of aside.md into Portuguese**
+2. Pick the content of the `aside.md` file in the repository, translate it using your favorite text editor, paste it as the content of the new issue.
+3. Repeat the same process and create a new issue for the translation of `activity.md` as well.
+4. Wait for the comments of the maintainers of the repository. If the translation is good, they will integrate it into the repository in some future commit.
+
+![Translating aside.md using issues](http://andregarzia.com/shots/New_Issue__RioMozillaClubactivity-template_2015-10-13_11-47-04.png)
+
+### Using your git skills
+1. Follow the steps above to clone the repository to your machine.
+2. Inside the `activity-data/content` folder create a folder for your language using the **two letter code for your locale** (Ie: *pt* for Portuguese).
+3. Copy both the `aside.md` and `activity.md` to your new folder and change their content to suit your language and region.
+4. Add your language name and two letter code to the file `activity-data/locales.json`.
+5. Commit and send a pull request.
 
 ---
 
@@ -123,26 +161,6 @@ You can learn more [about github pages on this link](https://pages.github.com/).
 Github pages work from the `gh-pages` branch. New repositories come by default with a `master` branch. You need to create a `gh-pages` branch and use it to commit and push your data. If you are using `master` then this will not work.
 
 We advise you to create the `gh-pages`, set it as the default branch on your repository settings and then delete the `master` branch.
-
-## How to localize/translate an activity
-If you want to help localize or translate an activity there are two ways to go depending on your knowledge of git. Both ways are equally valid and lead to the same result.
-
-### Using your git skills
-1. Follow the steps above to clone the repository to your machine.
-2. Inside the `activity-data/content` folder create a folder for your language using the **two letter code for your locale** (Ie: *pt* for Portuguese).
-3. Copy both the `aside.md` and `activity.md` to your new folder and change their content to suit your language and region.
-4. Add your language name and two letter code to the file `activity-data/locales.json`.
-5. Commit and send a pull request.
-
-### With help from the repository owner
-If you're not confident in your git skills there is another way to help. You can use the issues section of the repository to create a new issue/task and exchange information with the people involved with the repository.
-
-1. Create a new issue in the desired repository with a title such as: **Localization of aside.md into Portuguese**
-2. Pick the content of the `aside.md` file in the repository, translate it using your favorite text editor, paste it as the content of the new issue.
-3. Repeat the same process and create a new issue for the translation of `activity.md` as well.
-4. Wait for the comments of the maintainers of the repository. If the translation is good, they will integrate it into the repository in some future commit.
-
-![Translating aside.md using issues](http://andregarzia.com/shots/New_Issue__RioMozillaClubactivity-template_2015-10-13_11-47-04.png)
 
 # How does this work (internally)
 This web app uses AJAX requests to fetch the markdown files asynchronously and then process them using `marked.js`. It then uses `handlebars.js` to insert the processed markdown content into pretty templates. It is also using `jQuery` and `YAML.js` to make things easier.
