@@ -3,6 +3,7 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Kraken The Code Activity](#kraken-the-code-activity)
+- [How to localize/translate an activity](#how-to-localizetranslate-an-activity)
 - [Mozilla Clubs](#mozilla-clubs)
 - [Activity Template for Mozilla Clubs Activities](#activity-template-for-mozilla-clubs-activities)
 - [How to use this template](#how-to-use-this-template)
@@ -24,13 +25,13 @@ You can [view this activity online](http://mozilla.github.io/mozilla-club-activi
 
 ---
 
-## How to localize/translate an activity
+# How to localize/translate an activity
 If you want to help localize or translate an activity there are two ways to go depending on your knowledge of git. Both ways are equally valid and lead to the same result.
 
 
 
-### With help from the repository owner
-The easiest way to help with the translation of an activity is to use [the issues section of the repository](/issues) to create a new issue/task and exchange information with the people involved with the repository.
+## With help from the repository owner
+The easiest way to help with the translation of an activity is to use [the issues section of the repository](../../issues) to create a new issue/task and exchange information with the people involved with the repository.
 
 1. Create a new issue in the desired repository with a title such as: **Localization of aside.md into Portuguese**
 2. Pick the content of the `aside.md` file in the repository, translate it using your favorite text editor, paste it as the content of the new issue.
@@ -39,7 +40,7 @@ The easiest way to help with the translation of an activity is to use [the issue
 
 ![Translating aside.md using issues](http://andregarzia.com/shots/New_Issue__RioMozillaClubactivity-template_2015-10-13_11-47-04.png)
 
-### Using your git skills
+## Using your git skills
 1. Follow the steps above to clone the repository to your machine.
 2. Inside the `activity-data/content` folder create a folder for your language using the **two letter code for your locale** (Ie: *pt* for Portuguese).
 3. Copy both the `aside.md` and `activity.md` to your new folder and change their content to suit your language and region.
