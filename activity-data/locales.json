@@ -3,5 +3,6 @@
   {"name": "English", "code": "en"},
   {"name": "Español", "code": "es"},
   {"name": "Filipino", "code": "fil"},
+  {"name": "Indonesian", "code": "id"},
   {"name": "Português", "code": "pt"}
 ]
