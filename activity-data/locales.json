@@ -8,5 +8,6 @@
   {"name": "Gujarati", "code": "gu"},
   {"name": "Hindi", "code": "hi"},
   {"name": "Indonesian", "code": "id"},
-  {"name": "Português", "code": "pt"}
+  {"name": "Português", "code": "pt"},
+  {"name": "Swedish", "code": "sv"}
 ]
