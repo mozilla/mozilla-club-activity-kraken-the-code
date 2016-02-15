@@ -1,5 +1,6 @@
 [
   {"name": "বাংলা", "code": "bn"},
+  {"name": "中文", "code": "zh-s"},
   {"name": "Nederlands", "code": "nl"},
   {"name": "English", "code": "en"},
   {"name": "Español", "code": "es"},
