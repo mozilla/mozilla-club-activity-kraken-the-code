@@ -8,7 +8,7 @@ competencies_label: Web Literacy Skills
 competencies:
     - {label: "Search", type: "search"}
     - {label: "Synthesize", type: "synthesize"}
-    - {label: "Evaluat", type: "evaluate"}
+    - {label: "Evaluate", type: "evaluate"}
 ---
 
 ## [Section 1. Reading the Web](http://mozilla.github.io/webmaker-curriculum/WebLiteracyBasics-I/)
