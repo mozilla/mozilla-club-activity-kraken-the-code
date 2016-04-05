@@ -4,10 +4,11 @@ github: mozilla/mozilla-club-activity-kraken-the-code
 github_label: View on Github
 discourse_label: Discussion
 image: square-kraken.png
-competencies_label: Web Literacy Competencies
+competencies_label: Web Literacy Skills
 competencies:
     - {label: "Search", type: "search"}
-    - {label: "Credibility", type: "credibility"}
+    - {label: "Synthesize", type: "synthesize"}
+    - {label: "Evaluate", type: "evaluate"}
 ---
 
 ## [Section 1. Reading the Web](http://mozilla.github.io/webmaker-curriculum/WebLiteracyBasics-I/)
