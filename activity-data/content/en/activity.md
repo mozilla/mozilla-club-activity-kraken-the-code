@@ -11,8 +11,7 @@ competencies:
     - {label: "Evaluate", type: "evaluate"}
 skills_label: 21st Century Skills
 skills:
-    - {label: "Foo", type: "foo"}
-    - {label: "Bar", type: "bar"}
+    - {label: "Problem-solving", type: "problem-solving"}
 ---
 
 ## [Section 1. Reading the Web](http://mozilla.github.io/webmaker-curriculum/WebLiteracyBasics-I/)
