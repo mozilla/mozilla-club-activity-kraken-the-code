@@ -9,6 +9,10 @@ competencies:
     - {label: "Search", type: "search"}
     - {label: "Synthesize", type: "synthesize"}
     - {label: "Evaluate", type: "evaluate"}
+skills_label: 21st Century Skills
+skills:
+    - {label: "Foo", type: "foo"}
+    - {label: "Bar", type: "bar"}
 ---
 
 ## [Section 1. Reading the Web](http://mozilla.github.io/webmaker-curriculum/WebLiteracyBasics-I/)
