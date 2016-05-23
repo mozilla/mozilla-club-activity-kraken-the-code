@@ -57,7 +57,7 @@ Have a **brief conversation with your learners about web sources.**
 
 Split learners into **groups of 2 or 3** and explain that each group’s challenge is to **prove whether or not the legendary monster, The Kraken, is real or a myth.**
 
-Groups start by **spending 20 minutes researching.** Using the guidelines from the [Tip Sheet](legit-o-meter.html), groups should **evaluate 2 internet sources**, documenting their findings on the Legit-o-Meter (either by [writing on the handout](https://docs.google.com/a/zythepsary.com/file/d/0B1vyNnSVEMIDbDVLX1E4ZXRmclE/edit) or editing [the online template](https://laura.makes.org/thimble/Mjg1NjA2NDAw/kraken-the-code-legit-o-meter)).
+Groups start by **spending 20 minutes researching.** Using the guidelines from the [Tip Sheet](https://docs.google.com/a/mozillafoundation.org/file/d/0ByDhuNZWuJn-bmdaTkoxeDZ4Vmc/edit), groups should **evaluate 2 internet sources**, documenting their findings on the Legit-o-Meter (either by [writing on the handout](https://docs.google.com/a/zythepsary.com/file/d/0B1vyNnSVEMIDbDVLX1E4ZXRmclE/edit) or editing [the online template](https://laura.makes.org/thimble/Mjg1NjA2NDAw/kraken-the-code-legit-o-meter)).
 
 ![Image](http://mozilla.github.io/webmaker-curriculum/images/kraken-in-progress.jpg)
 
