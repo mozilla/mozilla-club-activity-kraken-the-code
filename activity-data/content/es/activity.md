@@ -20,7 +20,7 @@ Los estudiantes usarán Internet para resolver el misterio del Kraken, una legen
 
 45 minutos a una hora
 
-### Preparación
+### Preparaciones para hacer la actividad
 
 **Completar el** [cuestionario pre-actividad](http://goo.gl/forms/Uua6yKIy5E).
 
@@ -28,7 +28,7 @@ Después: **hacer la actividad por su cuenta** para familiarizarce con ella.
 
 **Imprimir** la [planilla del LEGITOMETRO](https://ia601508.us.archive.org/30/items/LEGITOMETROES/LEGIT-O-ETER-ES.pdf).
 
-**Escribir en tres papeles**: *“Real,” “Imaginario” y “Algo en el medio”* y cuelgarlas en diferentes partes del aula o espacio de trabajo.
+**Escribir en tres papeles**: *“Real,” “Imaginario” y “Algo en el medio”* y colgarlas en diferentes partes del aula o espacio de trabajo.
 
 ---
 
@@ -51,7 +51,7 @@ Inicien una breve charla con sus estudiantes sobre los contenidos web.
 
 Organicen a lxs estudiantes en **grupos de a 2 o 3 participantes** y comenten que el desafío de cada grupo es **comprobar si el legendario moustro, el kraken, es real o sólo un mito**.
 
-Los grupos **empezarán usando 20 minutos para buscar información en la web** usando la [guía de tips de la planitilla](https://ia601508.us.archive.org/30/items/LEGITOMETROES/LEGIT-O-ETER-ES.pdf), deberan evaluar 2 fuentes de internet, documentar lo que encuentran en LEGITOMETROr (ya sea [escribiendo en la hoja impresa](https://ia601508.us.archive.org/30/items/LEGITOMETROES/LEGIT-O-ETER-ES.pdf) o editando la [plantilla online](https://d157rqmxrxj6ey.cloudfront.net/amaciel/10587/)). 
+Los grupos **empezarán usando 20 minutos para buscar información en la web** usando la [guía de tips de la plantilla](https://ia601508.us.archive.org/30/items/LEGITOMETROES/LEGIT-O-ETER-ES.pdf), deberan evaluar 2 fuentes de internet, documentar lo que encuentran en LEGITOMETRO (ya sea [escribiendo en la hoja impresa](https://ia601508.us.archive.org/30/items/LEGITOMETROES/LEGIT-O-ETER-ES.pdf) o editando la [plantilla online](https://d157rqmxrxj6ey.cloudfront.net/amaciel/10587/)). 
 
 ![Image](http://mozilla.github.io/webmaker-curriculum/images/kraken-in-progress.jpg)
 
