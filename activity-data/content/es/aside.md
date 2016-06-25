@@ -19,7 +19,7 @@
 * Documentar la autoría de una página y su contenido.
 
 
-#### Como los aprendices se convierten en mentores
+#### Como los estudiantes se convierten en mentores
 
 * Acompañar a un estudiante o facilitador menos experimentado par que pueda practicar el liderar esta actividad.
 * Si un estudiante va más rápido o está más confiado con la actividad, proponerle que ayude como mentor de otro grupo de pares.
